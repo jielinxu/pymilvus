@@ -1,6 +1,6 @@
 # Milvus Python SDK
 
-Using Milvus python sdk for Milvus
+Use Milvus Python SDK for importing vectors and indexing with Milvus.
 
 Download
 ---
